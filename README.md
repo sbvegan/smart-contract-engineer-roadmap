@@ -6,7 +6,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
 
 ### Fundamentals
 - [ ] Re-read [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-    - [ ] [01 What is Ethereum?](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)
+    - [X] [01 What is Ethereum?](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)
     - [ ] [02 Ethereum Basics](https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc)
     - [ ] [03 Ethereum Clients](https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc)
     - [ ] [04 Cryptography](https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc)
