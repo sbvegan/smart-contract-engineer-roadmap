@@ -23,7 +23,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
 
 ### General Development
 
-- [ ] @PatrickAlphaC's Free Code Camp Javascript Course
+- [ ] @PatrickAlphaC's [Free Code Camp Javascript Course](https://youtu.be/gyMwXuJrbJQ)
     - [X] 00: Welcome to Blockchain
     - [X] 01: Blockchain Basics
     - [X] 02: Welcome to Remix! Simple Storage
