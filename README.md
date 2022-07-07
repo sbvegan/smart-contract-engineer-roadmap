@@ -55,8 +55,8 @@ Some tasks that will help improve my engineering skills and understanding of sma
 ### Security
 
 - [ ] [Ethernaut Challenges](https://ethernaut.openzeppelin.com/)
-    - [ ] 0. Hello Ethernaut
-    - [ ] 1. Fallback
+    - [X] 0. Hello Ethernaut
+    - [X] 1. Fallback
     - [ ] 2. Fallout
     - [ ] 3. Coin Flip
     - [ ] 4. Telephone
