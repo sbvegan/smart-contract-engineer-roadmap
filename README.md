@@ -1,5 +1,7 @@
 # Smart Contract Engineer Roadmap
 
+Some tasks that will help improve my engineering skills and understanding of smart contract programming.
+
 ## TODO: 
 
 ### Fundamentals
@@ -80,5 +82,3 @@
     - [ ] 24. Puzzle Wallet
     - [ ] 25. Motorbike
     - [ ] 26. DoubleEntry Point
-
-## 
