@@ -52,7 +52,33 @@ Some tasks that will help improve my engineering skills and understanding of sma
     - [ ] [Testing on a Forked Network](https://book.getfoundry.sh/tutorials/solidity-scripting.html)
     - [ ] [Testing on a Forked Network](https://book.getfoundry.sh/tutorials/testing-on-a-forked-network.html)
 
+#### Best Practices
+
+-[ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+    - [ ] General Philosphy
+    - [ ] Development Recommendations
+
 ### Security
+
+-[ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+    - [ ] Known Attacks
+        - [ ] Reentrancy
+        - [ ] Oracle Manipulation
+        - [ ] Frontrunning
+        - [ ] Timestamp Dependence
+        - [ ] Insecure Arithmetic
+        - [ ] Denial of Service
+        - [ ] Griefing
+        - [ ] Force Feeding
+        - [ ] Deprecated/Historical
+    - [ ] Security Tools
+        - [ ] Visualization
+        - [ ] Static and Dynamic Analysis
+        - [ ] Classification
+        - [ ] Testing 
+        - [ ] Linters and Fromatters 
+
+#### CTFs and Games
 
 - [ ] [Ethernaut Challenges](https://ethernaut.openzeppelin.com/)
     - [X] 0. Hello Ethernaut
