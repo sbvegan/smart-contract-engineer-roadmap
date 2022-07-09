@@ -54,13 +54,13 @@ Some tasks that will help improve my engineering skills and understanding of sma
 
 #### Best Practices
 
--[ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
     - [ ] General Philosphy
     - [ ] Development Recommendations
 
 ### Security
 
--[ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
     - [ ] Known Attacks
         - [ ] Reentrancy
         - [ ] Oracle Manipulation
