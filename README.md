@@ -62,7 +62,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
 #### Best Practices
 
 - [ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-  - [x] General Philosphy
+  - [X] General Philosphy
   - [ ] Development Recommendations
 
 ### Security
