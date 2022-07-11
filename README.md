@@ -46,7 +46,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [ ] 18: Security & Auditing
 - [ ] Read the [Foundry Book](https://book.getfoundry.sh/) and see if I can help make any improvements.
   - [x] Introduction
-  - [X] Projects
+  - [x] Projects
   - [ ] Forge
   - [ ] Cast
   - [ ] Anvil
@@ -62,7 +62,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
 #### Best Practices
 
 - [ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-  - [ ] General Philosphy
+  - [x] General Philosphy
   - [ ] Development Recommendations
 
 ### Security
