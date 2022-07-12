@@ -31,7 +31,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [x] 03: Remix Storage Factory
   - [x] 04: Remix Fund Me
   - [x] 05: Ethers.js Simple Storage
-  - [ ] 06: Hardhat Simple Storage
+  - [X] 06: Hardhat Simple Storage
   - [ ] 07: Hardhat Fund Me
   - [ ] 08: HTML / Javascript Fund Me
   - [ ] 09: Hardhat Smart Contract Lottery
