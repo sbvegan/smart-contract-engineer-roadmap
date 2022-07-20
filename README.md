@@ -48,9 +48,14 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [x] Introduction
   - [x] Projects
   - [X] Forge
-  - [ ] Cast
-  - [ ] Anvil
-  - [ ] Configuration
+    - [X] Tests
+    - [X] Advanced Testing
+    - [X] Deploying and Verifying
+    - [X] Gas Tracking
+    - [X] Debugger
+  - [X] Cast
+  - [X] Anvil
+  - [X] Configuration
 - [ ] Do Foundry Book's Tutorials
   - [ ] [Creating an NFT with Solmate](https://book.getfoundry.sh/tutorials/solmate-nft.html)
   - [ ] [Docker and Foundry](https://book.getfoundry.sh/tutorials/solmate-nft.html)
