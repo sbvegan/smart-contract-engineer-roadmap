@@ -44,7 +44,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [ ] 16: Hardhat Upgrades
   - [ ] 17: Hardhat DAOs
   - [ ] 18: Security & Auditing
-- [ ] Read the [Foundry Book](https://book.getfoundry.sh/) and see if I can help make any improvements.
+- [X] Read the [Foundry Book](https://book.getfoundry.sh/) and see if I can help make any improvements.
   - [x] Introduction
   - [x] Projects
   - [X] Forge
