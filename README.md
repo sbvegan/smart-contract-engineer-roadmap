@@ -47,7 +47,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
 - [ ] Read the [Foundry Book](https://book.getfoundry.sh/) and see if I can help make any improvements.
   - [x] Introduction
   - [x] Projects
-  - [ ] Forge
+  - [X] Forge
   - [ ] Cast
   - [ ] Anvil
   - [ ] Configuration
