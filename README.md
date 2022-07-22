@@ -76,7 +76,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
 
 - [ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
   - [ ] Known Attacks
-    - [ ] Reentrancy
+    - [X] Reentrancy
     - [ ] Oracle Manipulation
     - [ ] Frontrunning
     - [ ] Timestamp Dependence
