@@ -8,7 +8,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
 
 - [ ] Re-read [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
   - [x] [01 What is Ethereum?](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)
-  - [X] [02 Ethereum Basics](https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc)
+  - [x] [02 Ethereum Basics](https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc)
   - [ ] [03 Ethereum Clients](https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc)
   - [ ] [04 Cryptography](https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc)
   - [ ] [05 Wallets](https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc)
@@ -21,6 +21,8 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [ ] [12 Decentralized Applications dApps](https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc)
   - [ ] [13 What is the EVM?](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)
   - [ ] [14 Consensus](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc)
+- [ ] [Read and Understand the Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [ ] [Understanding the Yellow Paper's EVM Specifications](https://ethereum.org/en/developers/tutorials/yellow-paper-evm/)
 
 ### General Development
 
@@ -31,7 +33,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [x] 03: Remix Storage Factory
   - [x] 04: Remix Fund Me
   - [x] 05: Ethers.js Simple Storage
-  - [X] 06: Hardhat Simple Storage
+  - [x] 06: Hardhat Simple Storage
   - [ ] 07: Hardhat Fund Me
   - [ ] 08: HTML / Javascript Fund Me
   - [ ] 09: Hardhat Smart Contract Lottery
@@ -44,18 +46,18 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [ ] 16: Hardhat Upgrades
   - [ ] 17: Hardhat DAOs
   - [ ] 18: Security & Auditing
-- [X] Read the [Foundry Book](https://book.getfoundry.sh/) and see if I can help make any improvements.
+- [x] Read the [Foundry Book](https://book.getfoundry.sh/) and see if I can help make any improvements.
   - [x] Introduction
   - [x] Projects
-  - [X] Forge
-    - [X] Tests
-    - [X] Advanced Testing
-    - [X] Deploying and Verifying
-    - [X] Gas Tracking
-    - [X] Debugger
-  - [X] Cast
-  - [X] Anvil
-  - [X] Configuration
+  - [x] Forge
+    - [x] Tests
+    - [x] Advanced Testing
+    - [x] Deploying and Verifying
+    - [x] Gas Tracking
+    - [x] Debugger
+  - [x] Cast
+  - [x] Anvil
+  - [x] Configuration
 - [ ] Do Foundry Book's Tutorials
   - [ ] [Creating an NFT with Solmate](https://book.getfoundry.sh/tutorials/solmate-nft.html)
   - [ ] [Docker and Foundry](https://book.getfoundry.sh/tutorials/solmate-nft.html)
@@ -67,7 +69,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
 #### Best Practices
 
 - [ ] [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
-  - [X] General Philosphy
+  - [x] General Philosphy
   - [ ] Development Recommendations
 
 ### Security
@@ -90,7 +92,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
     - [ ] Testing
     - [ ] Linters and Fromatters
 
-#### CTFs and Games
+#### CTFs and Offensive Security Games
 
 - [ ] [Ethernaut Challenges](https://ethernaut.openzeppelin.com/)
   - [x] 0. Hello Ethernaut
@@ -120,3 +122,17 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [ ] 24. Puzzle Wallet
   - [ ] 25. Motorbike
   - [ ] 26. DoubleEntry Point
+- [ ] [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  - [ ] 1. Unstoppable
+  - [ ] 2. Naive receiver
+  - [ ] 3. Truster
+  - [ ] 4. Side entrance
+  - [ ] 5. The rewarder
+  - [ ] 6. Selfie
+  - [ ] 7. Compromised
+  - [ ] 8. Puppet
+  - [ ] 9. Puppet v2
+  - [ ] 10. Free rider
+  - [ ] 11. Backdoor
+  - [ ] 12. Climber
+  - [ ] 13. Safe miners
