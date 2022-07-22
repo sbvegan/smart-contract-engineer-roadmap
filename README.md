@@ -59,7 +59,7 @@ Some tasks that will help improve my engineering skills and understanding of sma
   - [x] Anvil
   - [x] Configuration
 - [ ] Do Foundry Book's Tutorials
-  - [ ] [Creating an NFT with Solmate](https://book.getfoundry.sh/tutorials/solmate-nft.html)
+  - [x] [Creating an NFT with Solmate](https://book.getfoundry.sh/tutorials/solmate-nft.html)
   - [ ] [Docker and Foundry](https://book.getfoundry.sh/tutorials/solmate-nft.html)
   - [ ] [Testing EIP-712 Signatures](https://book.getfoundry.sh/tutorials/testing-eip712.html)
   - [ ] [Solidity Scripting](https://book.getfoundry.sh/tutorials/solidity-scripting.html)
